@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">diabetCalc</string>
+    <string name="uglevod1">Углеводов на 100 грамм</string>
+    <string name="ves">Вес в граммах</string>
+    <string name="firstTitle">Рассчет углеводов</string>
+    <string name="itog">Кол-во углеводов: %s</string>
+    <string name="itogHb">Количество ХЕ: %s</string>
+    <string name="iinsulin">Инсулин: %s</string>
+</resources>
